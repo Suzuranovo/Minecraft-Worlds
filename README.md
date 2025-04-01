@@ -93,6 +93,9 @@ Due to the security reasons, we do not permit `git push` command from the consol
 1. Before making any changes, you **MUST** create a new branch and name it briefly to describe your goal. 
 2. After uploading what you need, commit your changes clearly with the commit message.
 3. Create a pull request, and wait for the code owner's review.
+4. After your pull request being approved by the code owner, it would be merged by the code owner.
+
+The code owner would delete your branch after merging in default. You can include special needs in the message of your pull request.
 
 ### Still determined? Apply for push permission!
 After reading ["Instructions for Applying Push Access"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/2) document, submit your application for push access under the discussion category ["Apply for permission"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/categories/apply-for-permission).
