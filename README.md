@@ -1,5 +1,4 @@
-## Languages   语言   言 語
-## [English](/README/README-EN.md)     [中文](/README/README-ZH-CN.md) [日本語](/README/README-JA.md)
+## [English](/README/README-EN.md) [中文](/README/README-ZH-CN.md) [日本語](/README/README-JA.md)
 #  いっらしゃいませ！！Welcome!!(◕ᴗ◕✿)
 
 これは、創造性に満ちたオープンソースの Minecraft ワールドコレクションです！
