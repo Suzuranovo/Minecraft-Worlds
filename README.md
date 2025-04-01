@@ -1,118 +1,128 @@
+## Languages 语言 言 語
+## [English](/README/README-EN.md) [中文](/README/README-ZH-CN.md) [日本語](/README/README-JA.md)
 #  いっらしゃいませ！！Welcome!!(◕ᴗ◕✿)
-This is a vivid and open-source Minecraft world set which stores everyone's precious creativity!
 
-Everyone can upload their awesome maps here to back it up, and make it public to everyone to admire!
+これは、創造性に満ちたオープンソースの Minecraft ワールドコレクションです！
 
-You could also find maps that catch your interest to download and play in it yourself, and also, contact the author of the map to look for cooperation!!
+誰でもここに自分の素晴らしいマップをアップロードしてバックアップし、公開することで、すべての人が楽しめるようにできます！
 
-To share our dreams of building a ideal world!
+また、興味のあるマップを見つけてダウンロードし、自由に遊ぶこともできます。その上、マップの作者に連絡し、コラボレーションの機会を探ることも可能です！！
+
+理想の世界を共に創造する夢を分かち合いましょう！
 
 ![Welcome page photo](/Repo-Assets/Welcome-Main-Page.jpg)
 
-# Download and Explore Your Interested Maps
+# 興味のあるマップをダウンロードして探索しよう
 
-To explore and download the map you like in your own machine (without anyone knowing it), use the two methods we provide below.
+好きなマップをダウンロードして自分のデバイスで遊びたい場合は、以下の2つの方法を使用できます。（誰にもバレませんよ！）
 
-## Download on the web (RECOMMENDED)
+## オンラインダウンロード（推奨）
 
-You are now at the [github repository of this project](https://github.com/oraoraoraaa/Minecraft-Worlds), you can download any world folder you like.
+あなたは現在、[本プロジェクトのGitHubリポジトリ ](https://github.com/oraoraoraaa/Minecraft-Worlds)にアクセスしています。ここから、好きなワールドフォルダをダウンロードできます。
 
-Download the whole folder of the map and move the folder to 
+ダウンロードしたワールドフォルダを以下のディレクトリに移動してください。
+
 ```
 /Minecraft/games/com.mojang/minecraftWorlds
 ```
-to import the map in the game. (It's a general location, search online if it doesn't match your machine.)
 
-## Use git
+これにより、ゲームにマップがインポートされます。（これは一般的なパスです。お使いのデバイスに適していない場合は、適切なパスを検索してください。）
 
-Type this line in your machine's console to **get a full copy** of the repository, then just select any maps you like to explore!
+## git を使用したダウンロード
+
+あなたのデバイスのターミナルで以下のコマンドを入力すると、このリポジトリを完全にクローンし、お好みのマップを選択できます！
 
 ```
 git clone https://github.com/oraoraoraaa/Minecraft-Worlds
 ```
-If you do not know how to use git, or you haven't installed git in your PC, PLEASE find learning resources yourself!
 
-## World format
+もし git の使い方が分からない、またはPCに git がインストールされていない場合は、自分で学習リソースを探してください！
 
-Different types of the maps (PE, Java, etc.) are stored in corresponding folders in the repository. Please select the suitable version of maps for you before download.
+## ワールドファイルのフォーマット
 
-Also, there are tons of good quality transformation tools for Minecraft maps on the internet. Feel free to explore and convert any map you like to the correct type for you on your local machine.
+異なる種類のマップ（PE, Java など）は、それぞれのフォルダに保存されています。ダウンロードする前に、自分のバージョンに適したものを選んでください。
 
-
-
-# Upload your map to back it up, and make it public
+また、インターネット上には多数の高品質な Minecraft マップ変換ツールがあります。自由に探索し、自分のバージョンに適したフォーマットに変換してください。
 
 
-> To maintain the loveliness and harmony of our community, uploads containing:
-> 1. Any **destructive and malicious** attempts in other people's map (unauthorized changes in other people's folder).
-> 2. Any upload request containing maps with **political** contents, **copyright issue related** contents, **sexual** contents which is extreme and illegal in most countries, **disturbing** contents which is illegal in > most countries, and any other contents that would arise legal issue.
+# マップをアップロードしてバックアップし、成果を公開しよう
+
+
+> コミュニティの秩序と調和を保つため、以下の内容のアップロードは禁止されています：
+> 1. 他人のマップを無断で改変または破壊する試み（許可のないフォルダ改変）。
+> 2. 政治的な内容、著作権に違反するもの、極端または違法なポルノコンテンツ、不快で多くの国で違法とされる内容、および法律問題を引き起こす可能性のあるもの。
 > 
-> WOULD BE REJECTED WITHOUT CONSIDERATION.
+> これらのアップロードリクエストは即座に拒否され、考慮されることはありません。
 >
-> THE USER CONDUCTING SUCH MISBEHAVIOR WOULD ALSO BE BANNED FROM THE COMMUNITY.
+> このような不適切な行為を行ったユーザーは、永久にアクセスを禁止されます。
 
 
-We provide these two methods for uploading your map(s) to our repository.
+以下の2つの方法で、ワールドデータをリポジトリにアップロードできます。
 
-## Email submission (RECOMMENDED)
+## メールでの提出（推奨）
 
-Please contact us via email, telling us your map's type (PE, Java, etc.) and involve a ZIP file in the attachment. 
+以下の情報を含めて、メールでご連絡ください。
+- マップの種類（PE, Java など）
+- ワールドデータが入ったZIPファイル
+- 主要な建築やランドマークを示すスクリーンショット（簡単な説明付き）
+- 連絡先情報（他の人とのコラボを希望する場合）
 
-The ZIP file should include: 
+メールアドレス：rinalic39@gmail.com
 
-- The main folder of your minecraft world. If you don't know where it is, please search online for tutorials.
-- Several screenshots of the featured places or buildings in your map, and a brief description of each screenshot. Please mind that we might not use all of them as saving for public resources.
+## リポジトリの PUSH 権限を申請
 
-You should also include your **contact info** in your email if you want to let others to contact you if they are interested in cooperate with you.
+継続的にマップを更新したい場合は、リポジトリのPUSH権限を申請できます。
 
-Email contact: rinalic39@gmail.com
+### 必要な知識
 
-## Gain push access to the repository
+- git の基本操作を理解していること。
+- GitHub リポジトリの基本構造を理解していること。
 
-If you'd like to keep your changes of your map updated to the remote, you can apply for PUSH access to the repository.
 
-### Prerequisite
+以下の警告が理解できない場合は、より詳しく学習するか、メール提出方式をご利用ください。
 
-- You should be familiar with the basic git functionality. 
-- You should understand the fundamental structure of the github repository.
+### 警告
 
-If you find that you cannot understand the warning below, you should find more learning resources to learn deeper, or simply use the email submission method for uploading. We will handle it for you from there.
+セキュリティ上の理由から、コマンドラインでの git push は許可されていません。
 
-### WARNING
+リポジトリをクローンすることは可能ですが、ローカルで変更を加えた後に git push で直接アップロードすることは禁止されています。
 
-Due to the security reasons, we do not permit `git push` command from the console. You have the permission to `git clone` the repository to your own machine, but the attempts to changing the repo locally and then using `git push` to upload is not allowed. Please create pull request in the repository's github website.
+GitHubのウェブサイト上で Pull Request を作成してください。
 
-**ANY ATTEMPT OF DIRECTLY PUSH OR MERGE INTO MAIN BRANCH IS STRICTLY PROHIBITED** and once discovered, the user's permission and access to push **WOULD BE REMOVED PERMANENTLY.**
+** 直接プッシュやメインブランチへのマージを試みた場合、そのユーザーのPUSH権限は永久に剥奪されます。**
 
 ![Hiho_Gitpush_Kinshi](https://github.com/user-attachments/assets/7c282dbc-caaa-4f85-b38f-fbbf267d727a)
 
-### Steps to create pull requests
+### Pull Request の作成手順
 
-(All the steps below are required to complete at the github website.)
+（以下のすべての手順は GitHub のウェブサイト上で行ってください。）
+1.	変更を加える前に、新しいブランチ(branch)を作成し、目的が分かるような名前を付ける。
+2.	ファイルの変更を行い、明確なコミットメッセージ(commit message)とともに変更をコミット(commit)する。
+3.	Pull Request を作成し、コードオーナー(Code owner)のレビューを待つ。
+4.	Pull Request が承認されると、コードオーナーがマージを行う。
 
-1. Before making any changes, you **MUST** create a new branch and name it briefly to describe your goal. 
-2. After uploading what you need, commit your changes clearly with the commit message.
-3. Create a pull request, and wait for the code owner's review.
-4. After your pull request being approved by the code owner, it would be merged by the code owner.
+コードオーナーは、デフォルトでマージ後にブランチを削除します。特別な希望がある場合は、Pull Request の情報に記載してください。
 
-The code owner would delete your branch after merging in default. You can include special needs in the message of your pull request.
+### 申請する準備はできましたか？
 
-### Still determined? Apply for push permission!
-After reading ["Instructions for Applying Push Access"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/2) document, submit your application for push access under the discussion category ["Apply for permission"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/categories/apply-for-permission).
+まず、["ガイド：PUSH権限を申請する方法 "](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/2) を読んでください。
 
-### Please note
-The folder structure you upload should be uniform with all of our stored folder in the repo. Please check and learn about the general structure of our folder before your push.
-If the structure doesn't match, we might REJECT your pull request and ask for adjustments.
+その後、["権限申請"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/categories/apply-for-permission) に申請用のディスカッションを作成してください。
 
-# About discussion
-If you have any questions, move to the [pinned announcement of the discussion page](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/1) for more details.
+### ご注意
 
-# World Screenshots
-## Aragaki
-### Shengxi Front Birdview
+アップロードするフォルダ構造は、リポジトリの既存のフォーマットと一致させる必要があります。違っている場合、Pull Request は拒否され、修正を求められる可能性があります。
+
+# ディスカッションについて
+
+質問がある場合は、[ディスカッションページの固定トピック](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/1)をご覧ください。
+
+# 世界の厳選画像
+## 新垣市(Aragaki)
+### 盛夕 正面鳥瞰図
 ![Aragaki-Shengxi Front birdview](/Worlds/Screenshots/Aragaki-PE/Shengxi-Front.PNG)
-### Hanxi Interchange Birdview
+### 寒夕ジャンクション 鳥瞰図
 ![Aragaki-Hanxi Interchange Birdview](/Worlds/Screenshots/Aragaki-PE/Hanxi-Interchange.PNG)
-### Linhan Station
+### 临寒 駅
 ![Aragaki-Hanxi Linhan Station 1](/Worlds/Screenshots/Aragaki-PE/Linhan-Station1.PNG)
 ![Aragaki-Hanxi Linhan Station 1](/Worlds/Screenshots/Aragaki-PE/Linhan-Station2.PNG)
