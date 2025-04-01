@@ -87,7 +87,7 @@ ZIP 文件应包含：
 
 请在 GitHub 网站上创建 Pull Request。
 
-** 任何尝试直接推送或合并至主分支的行为都将被严格禁止，一经发现，该用户的推送权限将被永久移除。**
+**任何尝试直接推送或合并至主分支的行为都将被严格禁止，一经发现，该用户的推送权限将被永久移除。**
 
 ![Hiho_Gitpush_Kinshi](https://github.com/user-attachments/assets/7c282dbc-caaa-4f85-b38f-fbbf267d727a)
 
