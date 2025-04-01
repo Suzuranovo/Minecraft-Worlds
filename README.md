@@ -88,7 +88,7 @@ git clone https://github.com/oraoraoraaa/Minecraft-Worlds
 
 GitHubのウェブサイト上で Pull Request を作成してください。
 
-** 直接プッシュやメインブランチへのマージを試みた場合、そのユーザーのPUSH権限は永久に剥奪されます。**
+**直接プッシュやメインブランチへのマージを試みた場合、そのユーザーのPUSH権限は永久に剥奪されます。**
 
 ![Hiho_Gitpush_Kinshi](https://github.com/user-attachments/assets/7c282dbc-caaa-4f85-b38f-fbbf267d727a)
 
