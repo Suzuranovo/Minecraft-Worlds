@@ -21,7 +21,7 @@ Download the whole folder of the map and move the folder to
 ```
 /Minecraft/games/com.mojang/minecraftWorlds
 ```
-to import the map in the game. (Generally, search online if it doesn't match your machine.)
+to import the map in the game. (It's a general location, search online if it doesn't match your machine.)
 
 ## Use git
 
